@@ -14,5 +14,5 @@ Welcome to the Linear Regression and K-Nearest Neighbors module. In this module,
 
 - [Lesson 6: Evaluating and Improving KNN](./lessons/lesson6.md): Understand how to evaluate the performance of a KNN model and explore techniques to improve it.
 
-Don't forget to complete the [homework assignments](./homework/) after each lesson. This will help you gain practical experience with both Linear Regression and the KNN algorithm. Happy learning!
+
 

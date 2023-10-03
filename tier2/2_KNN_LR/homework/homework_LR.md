@@ -1,7 +1,7 @@
 # Homework Assignments for Lessons 1-3
 
 ## Instructions
-For all coding assignments, please use Google Colab notebooks. Ensure you share the link to your public notebook when submitting your assignments.
+For all coding assignments, please use [Google Colab](https://colab.research.google.com/) notebooks. Ensure you share the link to your public notebook when submitting your assignments.
 
 ## Lesson 1: Introduction to Linear Regression
 
@@ -40,3 +40,10 @@ For all coding assignments, please use Google Colab notebooks. Ensure you share 
 ---
 
 **Note:** Ensure all code submissions are well-commented, and all reports/notebooks include necessary visualizations, interpretations, and conclusions.
+
+## References
+1. [Introduction to Linear Regression](https://towardsdatascience.com/introduction-to-linear-regression-in-python-c12a072bedf0)
+2. [Linear Regression using Python](https://realpython.com/linear-regression-in-python/)
+3. [Evaluating Linear Regression Models](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)
+4. [Feature Scaling for Linear Regression](https://benalexkeen.com/feature-scaling-with-scikit-learn/)
+5. [Regularization in Linear Regression](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
