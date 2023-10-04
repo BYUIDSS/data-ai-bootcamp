@@ -8,6 +8,10 @@
 5. [Conclusion](#conclusion)
 6. [Activities](#activities)
 7. [References](#references)
+9. [Go Back to Main Lesson](#main-lesson)
+10. [Go Back Prev Lesson](#lesson-2)
+11. [Go to Next Lesson](#lesson-4)
+
 
 <a name="objective"></a>
 ## Objective
@@ -50,3 +54,16 @@ Evaluating and improving the performance of a Linear Regression model is an iter
 1. [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 2. [Overfitting vs. Underfitting: A Complete Example](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
 3. [Regularization in Machine Learning](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
+
+<a name="main-lesson"></a>
+## Go Back to Main Lesson
+[Back to Main Lesson](../main_lesson.md)
+
+<a name="lesson-2"></a>
+## Go to Prev Lesson
+[Implementing Linear Regression: Lesson 2](lesson2.md)
+
+
+<a name="lesson-4"></a>
+## Go to Next Lesson
+[Introduction to KNN: Lesson 4](lesson4.md)

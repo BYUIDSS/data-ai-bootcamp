@@ -9,6 +9,8 @@
 6. [Conclusion](#conclusion)
 7. [Activities](#activities)
 8. [References](#references)
+9. [Go Back to Main Lesson](#main-lesson)
+10. [Go to Next Lesson](#lesson-2)
 
 <a name="objective"></a>
 ## Objective
@@ -50,3 +52,13 @@ Linear Regression is a foundational technique in the world of machine learning a
 ## References
 1. [Linear Regression - Wikipedia](https://en.wikipedia.org/wiki/Linear_regression)
 2. [Introduction to Linear Regression - Towards Data Science](https://towardsdatascience.com/introduction-to-linear-regression-in-python-c12a072bedf0)
+
+
+
+<a name="main-lesson"></a>
+## Go Back to Main Lesson
+[Back to Main Lesson](../main_lesson.md)
+
+<a name="lesson-2"></a>
+## Go to Next Lesson
+[Implementing Linear Regression: Lesson 2](lesson2.md)

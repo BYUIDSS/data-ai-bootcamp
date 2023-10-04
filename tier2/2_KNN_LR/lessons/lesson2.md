@@ -9,6 +9,9 @@
 6. [Conclusion](#conclusion)
 7. [Activities](#activities)
 8. [References](#references)
+9. [Go Back to Main Lesson](#main-lesson)
+10. [Go Back Prev Lesson](#lesson-1)
+11. [Go to Next Lesson](#lesson-3)
 
 <a name="objective"></a>
 ## Objective
@@ -68,3 +71,18 @@ Implementing Linear Regression, whether from scratch or using libraries, provide
 1. [Linear Regression from Scratch - Towards Data Science](https://towardsdatascience.com/linear-regression-from-scratch-cd0dee067f72)
 2. [Linear Regression in Python - Real Python](https://realpython.com/linear-regression-in-python/)
 3. [`sklearn.linear_model.LinearRegression` - Official Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+
+
+
+<a name="main-lesson"></a>
+## Go Back to Main Lesson
+[Back to Main Lesson](../main_lesson.md)
+
+<a name="lesson-1"></a>
+## Go to Prev Lesson
+[Introduction to Linear Regression: Lesson 1](lesson1.md)
+
+
+<a name="lesson-3"></a>
+## Go to Next Lesson
+[Evaluating and Improving Linear Regression Models: Lesson 3](lesson3.md)

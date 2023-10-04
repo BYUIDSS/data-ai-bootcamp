@@ -5,6 +5,9 @@
 2. [KNN from Scratch](#knn-from-scratch)
 3. [KNN with `sklearn`](#knn-sklearn)
 4. [Conclusion](#conclusion)
+5. [Go Back to Main Lesson](#main-lesson)
+6. [Go Back Prev Lesson](#lesson-4)
+7. [Go to Next Lesson](#lesson-6)
 
 <a name="objective"></a>
 ## Objective
@@ -28,3 +31,17 @@ Implementing KNN both from scratch and with `sklearn` provides a comprehensive u
 1. [Building KNN from Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
 2. [KNN using scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 3. [K-Nearest Neighbors (KNN) Algorithm for Machine Learning](https://www.learndatasci.com/tutorials/k-nearest-neighbors-classifier-python-scikit-learn/)
+
+
+<a name="main-lesson"></a>
+## Go Back to Main Lesson
+[Back to Main Lesson](../main_lesson.md)
+
+<a name="lesson-4"></a>
+## Go to Prev Lesson
+[Introduction to KNN: Lesson 4](lesson4.md)
+
+
+<a name="lesson-6"></a>
+## Go to Next Lesson
+[Evaluating and Improving KNN: Lesson 6](lesson6.md)

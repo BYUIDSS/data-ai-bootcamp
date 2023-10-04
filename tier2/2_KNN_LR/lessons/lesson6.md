@@ -5,6 +5,8 @@
 2. [Evaluation Metrics for Classification](#evaluation-metrics)
 3. [Improving KNN Performance](#improving-performance)
 4. [Conclusion](#conclusion)
+5. [Go Back to Main Lesson](#main-lesson)
+6. [Go Back Prev Lesson](#lesson-5)
 
 <a name="objective"></a>
 ## Objective
@@ -33,3 +35,11 @@ Evaluating and improving the performance of a KNN model is an iterative process.
 1. [Evaluating a Classification Model](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
 2. [Improving KNN Performance](https://medium.com/@mohtedibf/in-depth-parameter-tuning-for-knn-4c0de485baf6)
 3. [Understanding KNN, K-Means, and PCA](https://towardsdatascience.com/understanding-knn-k-means-and-pca-algorithms-9d2c7e3ad3c9)
+
+<a name="main-lesson"></a>
+## Go Back to Main Lesson
+[Back to Main Lesson](../main_lesson.md)
+
+<a name="lesson-5"></a>
+## Go to Prev Lesson
+[Implementing KNN: Lesson 5](lesson5.md)

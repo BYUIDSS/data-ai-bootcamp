@@ -7,6 +7,9 @@
 4. [Applications of KNN](#applications)
 5. [Advantages and Disadvantages](#advantages-disadvantages)
 6. [Conclusion](#conclusion)
+7. [Go Back to Main Lesson](#main-lesson)
+8. [Go Back Prev Lesson](#lesson-2)
+9. [Go to Next Lesson](#lesson-5)
 
 <a name="objective"></a>
 ## Objective
@@ -51,3 +54,16 @@ KNN is a fundamental algorithm for classification problems. However, its simplic
 1. [Introduction to K-Nearest Neighbors](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26)
 2. [KNN Algorithm: A Practical Implementation On Python](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 3. [K-Nearest Neighbors Algorithm in Python and Scikit-Learn](https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
+
+<a name="main-lesson"></a>
+## Go Back to Main Lesson
+[Back to Main Lesson](../main_lesson.md)
+
+<a name="lesson-3"></a>
+## Go to Prev Lesson
+[Evaluating and Improving Linear Regression Models: Lesson 3](lesson3.md)
+
+
+<a name="lesson-5"></a>
+## Go to Next Lesson
+[Implementing KNN: Lesson 5](lesson5.md)
